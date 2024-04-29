@@ -1,0 +1,28 @@
+import { IColor } from "./../geometry/color";
+export declare const YELLOW: IColor;
+export declare const RED: IColor;
+export declare const BLUE: IColor;
+export declare const WHITE: IColor;
+export declare const ORANGE: IColor;
+export declare const GREEN: IColor;
+export declare const PURPLE: IColor;
+export declare const GREY: IColor;
+export declare const DARK_BLUE: IColor;
+export declare const LIGHT_YELLOW: IColor;
+export declare const LIGHT_GREEN: IColor;
+export declare const PINK: IColor;
+export declare const BLACK: IColor;
+export declare const MASK_COLOR: IColor;
+export declare const YELLOW_STICKERLESS: IColor;
+export declare const RED_STICKERLESS: IColor;
+export declare const BLUE_STICKERLESS: IColor;
+export declare const WHITE_STICKERLESS: IColor;
+export declare const ORANGE_STICKERLESS: IColor;
+export declare const GREEN_STICKERLESS: IColor;
+export declare const PURPLE_STICKERLESS: IColor;
+export declare const GREY_STICKERLESS: IColor;
+export declare const DARK_BLUE_STICKERLESS: IColor;
+export declare const LIGHT_YELLOW_STICKERLESS: IColor;
+export declare const LIGHT_GREEN_STICKERLESS: IColor;
+export declare const PINK_STICKERLESS: IColor;
+//# sourceMappingURL=colors.d.ts.map

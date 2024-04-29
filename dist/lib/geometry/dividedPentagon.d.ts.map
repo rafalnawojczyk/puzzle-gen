@@ -1,0 +1,1 @@
+{"version":3,"file":"dividedPentagon.d.ts","sourceRoot":"","sources":["../../../src/geometry/dividedPentagon.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,MAAM,EAAE,MAAM,SAAS,CAAC;AAEjC,OAAO,EAAE,QAAQ,EAAE,MAAM,sBAAsB,CAAC;AAShD,qBAAa,eAAgB,SAAQ,QAAQ;IAC3C;;;;;OAKG;gBAED,KAAK,EAAE,MAAM,EACb,MAAM,GAAE,MAAU,EAClB,MAAM,GAAE,MAAY,EACpB,UAAU,GAAE,MAAY;CAgB3B"}

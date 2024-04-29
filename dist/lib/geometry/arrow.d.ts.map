@@ -1,0 +1,1 @@
+{"version":3,"file":"arrow.d.ts","sourceRoot":"","sources":["../../../src/geometry/arrow.ts"],"names":[],"mappings":"AACA,OAAO,EAAE,OAAO,EAAE,MAAM,gBAAgB,CAAC;AACzC,OAAO,EAAE,QAAQ,EAAE,MAAM,YAAY,CAAC;AAEtC,qBAAa,KAAM,SAAQ,QAAQ;IACjC,EAAE,EAAE,OAAO,CAAC;IACZ,EAAE,EAAE,OAAO,CAAC;gBAEA,EAAE,EAAE,OAAO,EAAE,EAAE,EAAE,OAAO;CAOrC"}

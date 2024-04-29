@@ -1,0 +1,1 @@
+{"version":3,"file":"algorithm.d.ts","sourceRoot":"","sources":["../../../src/algorithms/algorithm.ts"],"names":[],"mappings":"AAAA;;;;;;;;;;;;GAYG;AACH,MAAM,WAAW,IAAI;IACnB,IAAI,EAAE,MAAM,CAAC;IACb,QAAQ,EAAE,QAAQ,CAAC;IACnB,MAAM,EAAE,MAAM,CAAC;IACf,CAAC,CAAC,EAAE,MAAM,CAAC;CACZ;AAED,oBAAY,QAAQ;IAClB,SAAS,IAAA;IACT,gBAAgB,IAAA;IAChB,MAAM,IAAA;CACP"}
