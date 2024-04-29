@@ -35,8 +35,8 @@ const OPTIMAL_LAYER_WIDTH = {
   4: 0.121,
 };
 
-function getLayerWidth(length: number, layers: number): number {
-  return OPTIMAL_LAYER_WIDTH[layers] || length / (layers * 1.9);
+function getLayerWidth(layers: number): number {
+  return OPTIMAL_LAYER_WIDTH[layers];
 }
 
 export class MegaminxNet {
@@ -62,7 +62,7 @@ export class MegaminxNet {
   constructor(layers: number) {
     this.layers = layers;
     const sideLength = 0.75;
-    const layerWidth = getLayerWidth(length, layers);
+    const layerWidth = getLayerWidth(layers);
 
     // Left
     this.U = new DividedPentagon(WHITE, layers, sideLength, layerWidth);
